@@ -1,2 +1,2 @@
 # git-using
-just to test how to use git.
+Just to test how to use git.
